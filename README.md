@@ -1,5 +1,7 @@
 # Champion–Challenger Model Comparison with Hugging Face and MLflow
-
+-Name:  Hemanth 
+-USN:  1MS25CI053
+-GitHub:Hemanth053
 ## 1. Task and models
 Task: Binary sentiment classification (positive/negative). Dataset: GLUE SST-2 validation split, deterministic 200-example subset (seed 42).
 - Model A (initial Champion): `distilbert-base-uncased-finetuned-sst-2-english`
